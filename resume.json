@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Louis Boadas",
+    "label": "Data Engineer | Business Analyst | Data Management",
+    "email": "boadas1999@gmail.com",
+    "phone": "+33 6 46 04 61 12",
+    "summary": "Master's graduate in Data Management (Paris School of Business), combining strong technical skills in data engineering with a sharp business mindset. Expert in designing automated data pipelines, leading data governance initiatives, and translating complex analytics into strategic recommendations. Bilingual French-English.",
+    "location": {
+      "city": "Orgeval",
+      "countryCode": "FR",
+      "region": "Île-de-France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "louisboadas",
+        "url": "https://www.linkedin.com/in/louisboadas"
+      },
+      {
+        "network": "GitHub",
+        "username": "louisboadas",
+        "url": "https://github.com/louisboadas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Data Consultant",
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Independent - Various Clients & Projects",
+      "highlights": [
+        "Designed a comprehensive Power BI solution for a retail client to track sales performance and competitor pricing.",
+        "Automated the consolidation of disparate Excel and CSV data sources, reducing manual reporting time by 15 hours per month.",
+        "Developed robust Python web scraping scripts to collect, clean, and monitor real-time market data.",
+        "Performed data cleansing and deduplication audits using SQL to prepare client databases for ERP and CRM migrations."
+      ]
+    },
+    {
+      "name": "VINCI Energies",
+      "position": "Data Management Project Lead",
+      "startDate": "2022-09-01",
+      "endDate": "2024-09-01",
+      "summary": "Business Applications Coordination Division",
+      "highlights": [
+        "Architected and deployed Apache NiFi pipelines to automate the processing of 25 million rows, reducing time by a factor of 20.",
+        "Designed and optimized multi-department SQL databases (Procurement, HR, IT, Training) to secure strategic data.",
+        "Developed a Power BI market-monitoring dashboard, improving buyer productivity by +63%.",
+        "Prepared and led data governance workshops for 10 to 15 IT and Business managers."
+      ]
+    },
+    {
+      "name": "La Pizza du Dimanche Soir",
+      "position": "Acting Store Manager",
+      "startDate": "2021-09-01",
+      "endDate": "2022-07-01",
+      "highlights": [
+        "Managed daily operations for a high-volume profit center generating ~€1M in annual revenue.",
+        "Awarded Employee of the Month 4 times for operational efficiency."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Dynamic JSON Resume & CI/CD Pipeline",
+      "description": "Developed a standardized, machine-readable resume using the JSON Resume schema to demonstrate Data-as-Code structuring.",
+      "highlights": [
+        "Built an automated CI/CD pipeline (Python, GitHub Actions) to seamlessly update and deploy a live web-based version of the CV."
+      ]
+    },
+    {
+      "name": "Automated Web Scraper & Data Pipeline",
+      "description": "Built a robust web scraping tool to collect and monitor real-time market data.",
+      "highlights": [
+        "Extracted, cleaned, and ingested 10k+ rows of daily data into an optimized SQL database (containerized via Docker)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Paris School of Business",
+      "area": "Data Management",
+      "studyType": "Master's Degree",
+      "startDate": "2018-01-01",
+      "endDate": "2024-01-01",
+      "courses": [
+        "Data Governance",
+        "IT Strategy",
+        "Machine Learning",
+        "ETL & Business Intelligence"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Data Engineering & Management",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Apache NiFi",
+        "ETL",
+        "Docker",
+        "Azure",
+        "Data Governance"
+      ]
+    },
+    {
+      "name": "Data Visualization & BI",
+      "keywords": [
+        "Power BI",
+        "Tableau",
+        "DAX",
+        "Reporting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Bilingual (TOEIC 980, IELTS 7/9)"
+    }
+  ],
+}
