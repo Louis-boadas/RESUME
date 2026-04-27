@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Louis Boadas",
-    "label": "Data Analyst | Data Management Specialist",
+    "label": "Data Analyst | Data Management Specialist ",
     "image": "https://raw.githubusercontent.com/Louis-boadas/RESUME/refs/heads/main/profile-pic.jpg.jpeg",
     "email": "boadas1999@gmail.com",
     "url": "https://github.com/louis-boadas",
-    "summary": "Master's graduate in Data Management (Paris School of Business), combining strong technical skills in data engineering with a sharp business mindset. \nExpert in designing automated data pipelines, leading data governance initiatives, and translating complex analytics into strategic recommendations. \nBilingual French-English (TOEIC 980, IELTS 7/9).",
+    "summary": "Master's graduate in Data Management (Paris School of Business), combining strong technical skills in data engineering with a sharp business mindset. Expert in designing automated data pipelines, leading data governance initiatives, and translating complex analytics into strategic recommendations. Bilingual French-English (TOEIC 980, IELTS 7/9).",
     "location": {
       "city": "Paris",
       "countryCode": "FR",
